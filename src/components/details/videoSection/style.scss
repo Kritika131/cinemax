@@ -60,9 +60,12 @@
                         opacity:0.5;
                     }
                     .triangle{
-                        stroke-dasharray: 0;
-                        opacity:1;
+                        
                         stroke:var(--pink);
+                    }
+                    .circle{
+                        stroke:var(--pink);
+
                     }
                 }
             }
